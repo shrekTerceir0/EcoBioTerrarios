@@ -1,0 +1,13 @@
+.titulo{
+    color:rgb(41, 81, 88);
+    font-style: oblique;
+}
+
+.imagem{
+    height: 300px;
+}
+
+body{
+    text-align: center;
+    background-color: rgb(116, 192, 223);
+}
