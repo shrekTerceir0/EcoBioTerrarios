@@ -1,10 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
 .titulo{
-    color:rgb(41, 81, 88);
+    color:#295158;
     font-style: oblique;
+}
+.sub-titulo{
+    color: #295158;
 }
 
 .imagem{
     height: 300px;
+    margin-top: 30;
+}
+.texto-principal{
+
 }
 
 body{
