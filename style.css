@@ -15,11 +15,15 @@
     height: 300px;
     margin-top: 30;
 }
-.texto-principal{
 
+.texto-principal{
+    text-align: center;
+    width: 50%;
+    display: inline-block;
+    
 }
 
 body{
     text-align: center;
-    background-color: rgb(116, 192, 223);
+    background-color: rgb(187, 214, 224);
 }
