@@ -17,10 +17,12 @@
 }
 
 .texto-principal{
-    text-align: center;
-    width: 50%;
-    display: inline-block;
-    
+    width: 50%;   
+}
+.container-principal{
+    display:flex;
+    justify-content: center;
+
 }
 
 body{
