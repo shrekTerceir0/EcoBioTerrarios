@@ -4,28 +4,32 @@
 }
 
 .titulo{
-    color:#295158;
+    color:#2a3f6e;
     font-style: oblique;
 }
 .sub-titulo{
-    color: #295158;
+    color: #2a3f6e;
 }
 
 .imagem{
     height: 300px;
     margin-top: 30;
+    margin-right: 2%;
 }
 
 .texto-principal{
-    width: 50%;   
+    width: 30%;  
+    margin-left: 1%;
 }
+
 .container-principal{
     display:flex;
     justify-content: center;
+    align-items: center;
 
 }
 
 body{
     text-align: center;
-    background-color: rgb(187, 214, 224);
+    background-color: rgb(123, 199, 212);
 }
