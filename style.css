@@ -4,11 +4,11 @@
 }
 
 .titulo{
-    color:#2a3f6e;
+    color:#c0913b;
     font-style: oblique;
 }
 .sub-titulo{
-    color: #2a3f6e;
+    color: #c0913b;
 }
 
 .imagem{
@@ -31,5 +31,5 @@
 
 body{
     text-align: center;
-    background-color: rgb(123, 199, 212);
+    background-color: rgb(106, 128, 82);
 }
