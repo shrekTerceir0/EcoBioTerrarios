@@ -4,11 +4,11 @@
 }
 
 .titulo{
-    color:#c0913b;
+    color:#d3b47c;
     font-style: oblique;
 }
 .sub-titulo{
-    color: #c0913b;
+    color: #d3b47c;
 }
 
 .imagem{
@@ -31,5 +31,15 @@
 
 body{
     text-align: center;
-    background-color: rgb(106, 128, 82);
+    background-color: rgb(112, 143, 80);
+}
+
+@media screen and (max-width: 600px){
+    .container-principal{
+        flex-direction: column;
+    }
+
+    .texto-principal{
+        width: 80%;  
+    }
 }
